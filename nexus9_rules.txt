@@ -1,0 +1,75 @@
+NEXUS-9 RULES (GM reference)
+
+CORE: Roll ATTRIBUTE DIE + SKILL DIE + MODS >= TN.
+TN: 7 Easy | 9 Standard | 11 Hard | 13 Extreme | 15 Near-impossible. Default TN 9.
+Fail (<TN): no intent, add consequence. Success (>=TN): intent achieved. Strong (>=TN+4): intent + benefit.
+Strong benefits: faster, quieter/less Heat, better position, extra info, +2 dmg.
+Mods: +2 strong advantage, +1 minor, -1 minor disadvantage, -2 strong disadvantage.
+Help: +1 to roll, or helper rolls die: 4+ = +2, else +0.
+Spike d20 (optional, rare): 1-3 complication even on success; 18-20 advantage even on fail.
+
+ATTRIBUTES (d4-d12): Grit (endurance/willpower) | Reflex (speed/aim) | Mind (analysis/hacking/tech) | Face (persuasion/intimidation/deception).
+SKILLS (d4-d12): Fight | Shoot | Move | Stealth | Hack | Observe | Talk | Threaten | Craft | Operate | Street | Med.
+VIT = 10 + Grit die max. CHG = 6 + Mind die max. ARM = armor. Heat = city attention (0+).
+
+PLAYBOOKS:
+Riotline: Fight+1, Move+1; Grit+1 OR Reflex+1. Edge Break the Line (1 CHG): melee hit → Shove/Disarm/Pin.
+Triggerhand: Shoot+1, Observe+1; Reflex+1 OR Face+1. Edge Clean Shot (1 CHG): ignore 2 cover penalty.
+Ghostwalker: Stealth+1, Move+1; Reflex+1 OR Mind+1. Edge Vanish (1 CHG): stay hidden after acting.
+Breaker: Hack+1, Observe+1; Mind+1 OR Reflex+1. Edge Chain Access (1 CHG): +2 next hack same system OR Heat-1.
+Talkknife: Talk+1, Street+1; Face+1 OR Mind+1. Edge Turn the Ask (1 CHG): 1/scene Talk success→strong.
+Wiredoc: Med+1, Craft+1; Mind+1 OR Grit+1. Edge Patch Protocol (1 CHG): heal 1d6 VIT + stop Bleeding, Med TN 9.
+
+BACKGROUNDS: Streetborn (1 contact; Street+1, Stealth+1) | Corpo Ledger (access token; Talk+1, Observe+1) | Ghost-Runner (bolt-hole; Hack+1, Stealth+1) | Clinic Debt (free patch 1/session; Med+1, Grit+1) | Courier Loop (knows routes; Move+1, Observe+1) | Salvage Faith (tech intuition; Craft+1, Mind+1).
+
+COMBAT: 2 Actions/round. Init: Reflex, highest first, PCs win ties.
+Range: Close (melee) | Near (room) | Far (street) | Distant (sniper).
+Melee: (Grit or Reflex)+Fight. Ranged: Reflex+Shoot. TN: 9 open | 11 cover/moving | 13 elite.
+Cover: Light +2 TN, Heavy +4 TN, Exposed -2 TN.
+Damage: weapon die - ARM → VIT. Strong: +2 dmg.
+
+HARM: Down at VIT 0 (crawl/speak only). Injury trigger: VIT 0 OR single hit 8+ after ARM.
+Injury (d12): 1-3 Bruised(-1 phys) | 4-6 Bleeding(-1 VIT/round) | 7-9 Shaken(-1 Mind/Face) | 10-11 Crippled(half move) | 12 Critical(death w/o Med).
+Stabilize: Grit+Med or Mind+Med TN 9 → stop Bleeding/stabilize. Strong: +1d6 VIT.
+
+HACKING: System = Firewall(TN), ICE(dmg die), Trace(Heat on fail).
+Silent: TN+2, less fallout. Loud: normal TN, bigger, Heat spikes.
+Actions: Probe(learn) | Bypass(doors/cams) | Hijack(drones) | Wipe(logs/-Heat) | Crash(shutdown/loud).
+Fail (pick 1): Trace(+Heat) | ICE(dmg VIT/CHG) | Lockout(change approach) | Countermeasure(drones/alarms).
+Presets: Street TN9/d6/+1 | Midline TN11/d8/+2 | Crown TN13/d10/+3.
+Systems: Camera Net | Door Grid | Drone Bay | Comms Mesh | Finance Terminal | Medical System | Truth Recorder | Archive Node(high consequence).
+Tags: Airgapped | Honeyed | Stale(-2 TN+glitches) | Biometric | Proxy-Wrapped.
+
+HEAT: rises from loud fights, messy hacks, exposure. 3: patrols tighten. 6: drones/raids. 9: identity disruption/erasure.
+
+SOCIAL: Talk(persuade/lie/negotiate) | Threaten(intimidate/coerce). TN: 9 open | 11 cautious | 13 protected | 15 elite.
+Leverage(proof/money/favor): +2 or TN-2. Strong: extra info, secrecy, better terms, favor owed.
+
+CYBERWARE: Slots: Body(2), Sense(1), Neural(1).
+Overclock (1/round): 1 CHG → +2 or +1 die step. +1 Glitch token.
+Glitch: +1 on snake eyes, Overclock, or ICE/EMP. At 3 → Glitch Event(d6), reset 0.
+Events: 1 Lag(-2 next) | 2 Bloom(Shaken) | 3 Jolt(drop/stumble) | 4 Leak(Heat+1) | 5 Firewall(lose 1d6 CHG) | 6 Reboot(lose 1 action, clear 1 condition).
+Corpware leashes: Subscription | License Check | Remote Compliance.
+Augments: Kinetic Weave(Body,+ARM) | Rebar Bones(Body×2,-1 phys dmg) | Reflex Splice(Neural,minor action 1/round) | Sinew Actuators(Body,+2 Move) | Shock Palm(Body,nonlethal/stun) | Veil Skin(Sense,+Stealth vs recog) | Ghost Optics(Sense,+Observe/AR/thermal) | Hush Rig(Sense,quieter) | Neural Jack(Neural,+Hack jacked) | Cipher Tongue(Neural,+Talk deception) | Auto-Injector(Body,quick stim) | Drone Buddy(Neural,drone boost).
+
+CRAFTING: Field repair Mind+Craft TN 11. Downtime TN 9. Fail = works + Flaw.
+Mods: 2 tags max. Complexity 4/6. Success +2, Strong +3, Fail +1+complication.
+Tags: Silent | Reliable | Piercing | Stun | Shielded | Quick-Draw | Ghostline.
+Builds: complexity 6/8/10. Fail: rare component, Flaw, Heat+1, works once, cut demanded.
+Flaws: Loud | Fragile | Power-Hungry | Glitchy | Tell.
+
+GEAR:
+Armor: Clothes 0 | Reinforced 1 | Jacket 2 | Tactical 3(-2 Stealth) | Riot 4 | Exec Shellcoat 2+Anti-Scan(Heat-1 1/scene).
+Melee: Knife d6 Concealable | Baton d8 Stun | Mono-blade d10 Piercing 1 | Shock Gloves d6 Nonlethal/Stun | Chain d8 Pull.
+Ranged: Holdout d6 Concealable | Pistol d8 Reliable | SMG d8 Burst(1CHG:+2) | Carbine d10 Accurate(+2 stationary) | Shotgun d10 Scatter(+2 vs Close open) | Sniper d12 Aim Required | Stunner d6 Nonlethal.
+Special: Throwing d6 Silent | Flash(-2 next, Grit TN9) | EMP(tech-1 action,+Glitch) | Micro-Explosive d12 Area loud.
+Tools: Lock Kit | Bypass Kit | Med Kit | Tool Kit (+2 or unlock). Cloak Rig(+2 Stealth 1/scene). Signal Spike(1 Crash). Burner Comms(Heat-1 1/session). Forgery Pack(+2 Talk/Street docs).
+Consumables: Stim(+2 phys or +2 CHG) | Focus Chew(+2 Mind/Hack,+1 Glitch) | Smoke(Heavy cover 2rnd) | Seal Foam(lock,TN11 break) | Trauma Gel(stop Bleeding+1d6 VIT) | EMP Strip(cameras 1rnd).
+Drones: Scout VIT3/ARM0 | Utility VIT6/ARM1 | Security VIT8/ARM2/d6 | Sentry VIT10/ARM3 | Heavy VIT14/ARM4/d10 loud.
+
+NPC: Minion VIT6/ARM0-1/CHG2, d6s. Swarm(+2 if 2+) or Cowardly.
+Operator VIT10/ARM1-2/CHG4, d8s. Tactical(+2 cover) or Chaser(+2 Move) or Cool Head.
+Elite VIT14/ARM2-3/CHG6, d10s. 2 traits: Countermove | Flash-Step | Clean Kill | Signal Discipline.
+Boss VIT18-24/ARM3-4/CHG8, d12s. Phase Shifts + Signature Move.
+
+ADVANCEMENT: 1-2 Marks/session. 3M: skill+1. 4M: attr+1. 2M: Edge upgrade. 1M: contact/safehouse/tool.

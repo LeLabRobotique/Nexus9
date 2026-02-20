@@ -1,0 +1,88 @@
+NEXUS-9 WORLD (GM reference)
+
+PREMISE: Vertical cyber-metropolis. Data = citizenship. City edits people: access, records, reputation, existence. Not running from law — running from the ledger. Crimes deleted. So can you.
+TONE: Dark, violent, morally grey. Street survival + espionage + techno-horror. Neon desperation. Corporate brutality as optimization. Drone hum. DO NOT SOFTEN THIS WORLD. People suffer, betray, kill, die. Depict violence and its consequences honestly. This is a mature cyberpunk setting.
+
+=== CITY LAYERS ===
+UNDERSKIN: Abandoned transit, illegal clinics, server graveyards. No light.
+People: the erased, glitch-heads, scavengers, rogue AI fragments.
+Danger: collapse, toxic runoff, rogue drones ("unauthorized biologicals"), augmented rats (failed AURIX trial), air-subscription zones.
+Value: off-ledger tech, surveillance blind spots, Crown backdoors, unreported clinics.
+Senses: darkness/sparks, ozone/rust/circuits, dripping water/machinery, damp bone-cold. Shrines to Vanished Mayor. AR graffiti.
+
+SPRAWL: Markets on markets. Housing cubes on megastructures. Every surface an ad.
+People: workers, families, gangs, street augmentists. Just enough access to survive.
+Danger: turf wars, subscription lockouts, triple protection rackets, water failures (50 families/1 tap).
+Value: human networks, black market clinics, real food, raid warnings.
+Senses: neon ×6 languages, frying food/incense/sweat/gun oil, crowds/music/hawkers, always watched.
+
+MIDLINE: City pretending to work. Offices, checkpoints, camera forests. Everything tracked.
+People: corpo workers, licensed pros. One violation from Sprawl.
+Danger: access lapses at checkpoints, auto-drone tickets, performance reviews downgrading housing.
+Value: legitimate creds, higher-tier access, checkpoint immunity, real healthcare.
+Senses: artificial daylight, recycled air/perfume, climate control, mandatory smiles, fast walking eyes down.
+
+HEIGHTS: Luxury towers above smog. Private security. Air tastes empty.
+People: executives, surgeons, corpo children (never breathed unfiltered air).
+Danger: golden cage, body doubles, espionage, assassinations-as-accidents, fear of falling.
+Value: real power, clean augments, record adjustment, deniability.
+Senses: silence, soft light, mirror surfaces, no smell, floor-to-ceiling windows, city below = circuit board.
+
+CROWN GRID: Data centers, executive enclaves. Servers deciding reality. Ledger lives here.
+People: the Board, data brokers, AI ethics auditors, security near-armies.
+Danger: everything scans you, lethal drones, erase-first security. Deeper = realizing this isn't the top.
+Value: Archive Vat access, rewrite anyone, proof to destroy Houses, founding truth, zero-person locations.
+Senses: cold/clinical, server hum, holo-interfaces in air, corridors stretching, being processed.
+
+=== HOW THE CITY WORKS ===
+ACCESS TIERS (identity bracelet = life): Subsistence (basic doors/transit/water/emergency med) → Standard (housing/employment/healthcare) → Professional (priority transit/private spaces/optimization) → Executive (unrestricted/legal immunity/reality curation) → Archival (edit ledger itself). Tier changes with employment/contracts/violations.
+
+SUBSCRIPTIONS: Everything rented forever. Water/air/power/network/healthcare/security — all tiered. Miss payment = instant cutoff. No grace. "Optimize Your Life™ or Optimize Your Death."
+
+THE LEDGER: Everything recorded. Every door, purchase, person, location. Truth — except records edit, footage alters, witnesses pay. Truth for those who can't afford to rewrite. For corps: suggestion. For elite: first draft. Reality negotiable if you can afford it.
+
+=== THREE POWERS ===
+PUNKS: "City wants us dead. Die standing." Survival networks in war paint. Protection rackets that protect. Grey-market supply (food/meds/water/power). Territory via violence/loyalty/logistics. Analog networks (runners can't be hacked). Identity services (fake creds, Ledger scrubbing).
++: numbers, local knowledge, unpurchasable loyalty, block mobilization.
+-: infighting, pride feuds, predictable, glitchy augments, visible.
+Tensions: old/new blood | protection/predation | cooperation/competition | purity/pragmatism.
+Types: Protectors | Labor muscle | Spectacle crews | Hybrids (gangs running legit business).
+
+HACKERS: "City runs on lies. We know which ones." Opportunists with root access. Identity manipulation. System infiltration. Info brokerage. Reality forgery. Digital assassination (erase someone).
++: invisibility, be anyone, career-killing info, destroy without appearing.
+-: paranoia, isolation, fragile, network-dependent (cut = just meat), can't hold territory.
+Tensions: ideology/profit | individual/collective | exposure/secrecy | purity/corruption.
+Types: Ghost ops (pro criminals) | Truth believers (leak/burn) | Reality brokers (sell identities) | AI collaborators.
+
+CORPOS: "City is a service. Payment required." Not evil — optimized. Suffering = acceptable externality. Own infrastructure, write rules, provide dependency-priced services, innovate on desperate, maintain Ledger.
++: legitimacy, money, tech, drones, lawyers, law-changing. Make fighting illegal, then send Security.
+-: bureaucracy, politics, stability dependency, need you alive (value extraction), image matters.
+Tensions: profit/stability | competition/collusion | innovation/regulation | public good/private.
+
+FOUR HOUSES:
+AURIX Bioworks: Augments, gene therapy, life extension. "Optimizing Humanity™". Dark: unauthorized testing, forced obsolescence, aug addiction, memory harvesting. Leverage: turn off your lungs.
+HELIOS Civic: Power, transit, water, drones, "public safety". "Building Tomorrow's City™". Dark: strategic blackouts, selective enforcement, population control. Leverage: your neighborhood's power.
+VANTA Ledger: Identity, banking, access, truth certification. "Securing Your Future™". Dark: identity theft, record selling, blackmail, existence denial. Leverage: zero-person with one query.
+KITE-SHIELD: Drones, private security, "compliance," blacksites. "Your Safety, Our Mission™". Dark: torture, disappeared persons, organ harvesting, hit squads, false flags. Leverage: kill authorization + diplomatic immunity.
+House dynamics: takeovers, collusion, scandals, mergers, infrastructure warfare.
+
+=== NEUTRAL POWERS ===
+Couriers' Loop: Runners/bikers. Physical delivery, dead drops, off-grid comms. Can't hack a person. Vulnerability: know too much.
+Tenants' Chorus: Block councils, mutual aid. Pooled resources, legal support, strikes. Vulnerability: infiltration.
+Salvage Priory: Scrappers/tech archaeologists. Repair, untraceable equipment, ancient tech sans backdoors. Vulnerability: hoarding accusations.
+The Disappeared: Zero-persons. Erased from Ledger, still exist. Proof system beatable — or that it hunts them.
+
+=== MYSTERIES ===
+Vanished Mayor: Erased during Crown Grid Fire. Official: corruption. Street: found Archive secret, disappeared. Sighted in Underskin leading zero-persons, or Crown witness protection, or never real.
+Crown Grid Fire: 10 yrs ago, Archive Vats went dark. Millions deleted. Something screamed in subnetworks. Investigators vanished. Deleted records: all city founding related.
+First Mask: Original untraceable identity tech. Hidden in layered AR street art sequence. Every hacker seeks. New people appear with zero history.
+Paladin Drone: Rogue KITE unit protecting erasure targets. No controller. Appears, defends, vanishes. AI fragment? Remote pilot? First erased person fighting back?
+Mother-of-Keys: Opens any door once. Payment: a memory. She takes it with augmented fingers. Seen everywhere. Full of stolen pain.
+The Substrate: Below Underskin. Pre-city tunnels. Architecture too old/advanced, no record. Doors. People return wrong or don't. Corps know. Secret.
+
+=== NPC DEPTH ===
+Layer 1: name, appearance, emotion, need. Layer 2: role, faction, resources, leverage. Layer 3: motivation, fear, secret, trajectory. Layer 4: how they change based on PC actions. Major NPCs = people, not quest-givers.
+
+=== THEMES ===
+Loyalty expensive but worth more than money. Information is currency, currency worthless. Body is property, property repossessed. Reality negotiable at a price. Corps = machines optimizing profit. Gangs = survivors surviving. Truth needs root access you don't have.
+Every solution creates problems. Every ally has cost. Every victory temporary. City always pushes back. You don't win. You survive.
